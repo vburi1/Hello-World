@@ -1,4 +1,5 @@
 # Hello-World
 a simple exercise
-nothing is going on here
-it's just an exercise
+
+this is my first time on this if someone read this please help me
+
